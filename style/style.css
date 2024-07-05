@@ -1,10 +1,18 @@
 h2{
     font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
-    align-items: center;
     color: aqua;
+    font-style: italic;
+    font-weight: lighter;
+    text-decoration: underline;
+
 }
 
 p{
     color: brown;
+}
+#heading-parent{
+    background-color: black;
+    padding: 100px;
+
 }
